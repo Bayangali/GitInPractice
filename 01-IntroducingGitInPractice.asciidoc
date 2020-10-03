@@ -3,7 +3,7 @@
 possession of good source code, must be in want of a version control
 system." (@MikeMcQuaid)
 
-
+Some content
 
 == Chapter 2
 "A new paragraph"
